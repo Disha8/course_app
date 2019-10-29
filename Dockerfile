@@ -1,5 +1,5 @@
 
-FROM glider/alpine:latest
+FROM gliderlabs/alpine:latest
 
 Maintainer Disha Rochlani <disha.r@altius.cc>
 
